@@ -36,6 +36,7 @@ if($user->get_sesi()) {
         <div id="loginbox">            
             <form id="loginform" method="post" class="form-vertical" action="login/">
 				 <div class="control-group normal_text"> <h3>LOGIN OOP PHP</h3></div>
+				 <div class="control-group normal_text"> <h2>OOP PERTAMA GUE</h2></div>
                 <div class="control-group">
                     <div class="controls">
                         <div class="main_input_box">
